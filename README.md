@@ -1,1 +1,1 @@
- # android_vendor_d5110_infinix
+# android_vendor_d5110_infinix
