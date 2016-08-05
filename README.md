@@ -10,6 +10,7 @@ Assuming your cm-13.0 repo is named cm-13.0:
 ETA:
 
 - Cyanogenmod 13.0 successfully compiled but it either stuck on bootanimation or on bootlogo (won't get to the bootanimation most of the cases). I hope some devs can help me make it boot, especially @Xen0n , @fire855 , @ferhung-mtk , @rohantaneja , @besik13 , @MSF-Jarvis , @HostZero
+
 Thanks to:
 
 - Xen0n
