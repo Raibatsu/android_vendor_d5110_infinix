@@ -1,8 +1,23 @@
-These are vendor blobs extracted from Android One (5.1) ROM.
-If for some reasons you wish to use Infinix ROM files, then you need to replace
-each of these files with the corresponding one in Infinix ROM before you compile.
+This branch is for compiling cm-13.0 for the Infinix HOT 2
 
+IMPORTANT: Device codename has been updated on this branch, meaning you need to update it locally too. Type the following commands to do so.
+Assuming your cm-13.0 repo is named cm-13.0:
 
-Work in progress ...
+- cd cm-13.0 && cd vendor
+- mkdir infinix && cd infinix
+- git clone https://github.com/Nonta72/android_vendor_d5110_infinix.git -b cm-13.0 d5110
+ETA:
 
-Promised to eat your cat !
+- Cyanogenmod 13.0 successfully compiled but it either stuck on bootanimation or on bootlogo (won't get to the bootanimation most of the cases). I hope some devs can help me make it boot, especially @Xen0n , @fire855 , @ferhung-mtk , @rohantaneja , @besik13 , @MSF-Jarvis , @HostZero
+Thanks to:
+
+- Xen0n
+- fire855
+- ferhung-mtk
+- rohantaneja
+- besik13
+- MSF-Jarvis
+- HostZero
+- Rendyindo
+- hyperion70
+- Whoever I forgot to mention
